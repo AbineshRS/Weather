@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP.NET\\Weather\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8E0D9A-85D1-4CDE-AC1E-10C2F12B148E}|Weather\\Weather.csproj|d:\\asp.net\\weather\\weather\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8E0D9A-85D1-4CDE-AC1E-10C2F12B148E}|Weather\\Weather.csproj|solutionrelative:weather\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8E0D9A-85D1-4CDE-AC1E-10C2F12B148E}|Weather\\Weather.csproj|d:\\asp.net\\weather\\weather\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8E0D9A-85D1-4CDE-AC1E-10C2F12B148E}|Weather\\Weather.csproj|solutionrelative:weather\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8E0D9A-85D1-4CDE-AC1E-10C2F12B148E}|Weather\\Weather.csproj|d:\\asp.net\\weather\\weather\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8E0D9A-85D1-4CDE-AC1E-10C2F12B148E}|Weather\\Weather.csproj|solutionrelative:weather\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8E0D9A-85D1-4CDE-AC1E-10C2F12B148E}|Weather\\Weather.csproj|d:\\asp.net\\weather\\weather\\model\\weatherdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8E0D9A-85D1-4CDE-AC1E-10C2F12B148E}|Weather\\Weather.csproj|solutionrelative:weather\\model\\weatherdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8E0D9A-85D1-4CDE-AC1E-10C2F12B148E}|Weather\\Weather.csproj|d:\\asp.net\\weather\\weather\\model\\openweathermapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8E0D9A-85D1-4CDE-AC1E-10C2F12B148E}|Weather\\Weather.csproj|solutionrelative:weather\\model\\openweathermapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8E0D9A-85D1-4CDE-AC1E-10C2F12B148E}|Weather\\Weather.csproj|d:\\asp.net\\weather\\weather\\model\\weatherrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8E0D9A-85D1-4CDE-AC1E-10C2F12B148E}|Weather\\Weather.csproj|solutionrelative:weather\\model\\weatherrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8E0D9A-85D1-4CDE-AC1E-10C2F12B148E}|Weather\\Weather.csproj|d:\\asp.net\\weather\\weather\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8D8E0D9A-85D1-4CDE-AC1E-10C2F12B148E}|Weather\\Weather.csproj|solutionrelative:weather\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 572,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:378921098:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\Weather\\Weather\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Weather\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\ASP.NET\\Weather\\Weather\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Weather\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T07:18:58.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherRecord.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\Weather\\Weather\\Model\\WeatherRecord.cs",
+              "RelativeDocumentMoniker": "Weather\\Model\\WeatherRecord.cs",
+              "ToolTip": "D:\\ASP.NET\\Weather\\Weather\\Model\\WeatherRecord.cs",
+              "RelativeToolTip": "Weather\\Model\\WeatherRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T07:15:44.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OpenWeatherMapService.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\Weather\\Weather\\Model\\OpenWeatherMapService.cs",
+              "RelativeDocumentMoniker": "Weather\\Model\\OpenWeatherMapService.cs",
+              "ToolTip": "D:\\ASP.NET\\Weather\\Weather\\Model\\OpenWeatherMapService.cs",
+              "RelativeToolTip": "Weather\\Model\\OpenWeatherMapService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAEwC0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T07:04:46.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherController.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\Weather\\Weather\\Controllers\\WeatherController.cs",
+              "RelativeDocumentMoniker": "Weather\\Controllers\\WeatherController.cs",
+              "ToolTip": "D:\\ASP.NET\\Weather\\Weather\\Controllers\\WeatherController.cs*",
+              "RelativeToolTip": "Weather\\Controllers\\WeatherController.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwBMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T05:39:55.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherDbContext.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\Weather\\Weather\\Model\\WeatherDbContext.cs",
+              "RelativeDocumentMoniker": "Weather\\Model\\WeatherDbContext.cs",
+              "ToolTip": "D:\\ASP.NET\\Weather\\Weather\\Model\\WeatherDbContext.cs",
+              "RelativeToolTip": "Weather\\Model\\WeatherDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T05:32:38.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\Weather\\Weather\\Program.cs",
+              "RelativeDocumentMoniker": "Weather\\Program.cs",
+              "ToolTip": "D:\\ASP.NET\\Weather\\Weather\\Program.cs",
+              "RelativeToolTip": "Weather\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAEwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T05:30:50.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ASP.NET\\Weather\\Weather\\appsettings.json",
+              "RelativeDocumentMoniker": "Weather\\appsettings.json",
+              "ToolTip": "D:\\ASP.NET\\Weather\\Weather\\appsettings.json",
+              "RelativeToolTip": "Weather\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-07T05:30:26.179Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 102,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 102,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
